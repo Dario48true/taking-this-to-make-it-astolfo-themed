@@ -8,7 +8,7 @@
 /* Main Background */
 .app-2CXKsg {
     background-image: url(https://images.alphacoders.com/889/thumb-1920-889928.png);
-    background-size: auto;
+    background-size: contain;
     background-color: transparent;
 }
 
